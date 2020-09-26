@@ -1,0 +1,15 @@
+Stack overflow :
+
+Prima functionalitate este aceea de a pune intrebari publice pentru a primi raspunsuri la probleme pe care le intampinam si nu stim sa le rezolvam de unii singuri .
+
+A doua functionalitate este tot un sistem de intrebari raspuns doar ca acesta nu mai este public si este privat in caz ca nu vrei sa stie lumea ce intrebari ai sau sa raspunzi la intrebarile private a altor persoane.
+
+A treia functionalitate este de cautare/aplicare de job unde se gasesc locuri de munca , litari cu roluri bazate pe titlu , stiva tehnologica , salariu , locatie si multe altele.
+
+Au 3 servicii platite : de baza , afaceri si afacere.
+
+De baza : 6 USD/ luna : incercare gratuita de 30 de zile, propriul spatiu privat gqzduit pe stackoverflow.com , arhiva complet cautabila
+
+Afaceri : 12 USD/luna : conectare unica (SSO) cu SAML , raportare si analize , asistenta prioritara pentru clienti , timp de functionare de 99,5% + ce ofera pachetul de baza
+
+Afacere : pret personalizat : conectare unica cu AD sau SAML , gazduieste pe cloud sau servere - sau in cloud-ul nostru administrat privat , API de citire si scriere robust , propriul succes al clientilor si reprezentantul comunitatii , SLA cu disponibilitate de 99,5% si asistenta prioritara
