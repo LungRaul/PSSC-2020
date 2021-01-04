@@ -1,0 +1,10 @@
+C:\Users\40740\Desktop\implementare workflow pentru postare întrebare nouă\Backend.Database\bin\Debug\Backend.Database.dacpac
+C:\Users\40740\Desktop\implementare workflow pentru postare întrebare nouă\Backend.Database\bin\Debug\Backend.Database.dll
+C:\Users\40740\Desktop\implementare workflow pentru postare întrebare nouă\Backend.Database\bin\Debug\Backend.Database.pdb
+C:\Users\40740\Desktop\implementare workflow pentru postare întrebare nouă\Backend.Database\obj\Debug\Backend.Database.sqlprojAssemblyReference.cache
+C:\Users\40740\Desktop\implementare workflow pentru postare întrebare nouă\Backend.Database\obj\Debug\Model.xml
+C:\Users\40740\Desktop\implementare workflow pentru postare întrebare nouă\Backend.Database\obj\Debug\refactor.xml
+C:\Users\40740\Desktop\implementare workflow pentru postare întrebare nouă\Backend.Database\obj\Debug\postdeploy.sql
+C:\Users\40740\Desktop\implementare workflow pentru postare întrebare nouă\Backend.Database\obj\Debug\predeploy.sql
+C:\Users\40740\Desktop\implementare workflow pentru postare întrebare nouă\Backend.Database\obj\Debug\Backend.Database.dll
+C:\Users\40740\Desktop\implementare workflow pentru postare întrebare nouă\Backend.Database\obj\Debug\Backend.Database.pdb
