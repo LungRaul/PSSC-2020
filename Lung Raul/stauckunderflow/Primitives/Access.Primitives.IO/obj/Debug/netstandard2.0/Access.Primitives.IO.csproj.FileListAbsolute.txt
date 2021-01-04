@@ -1,0 +1,9 @@
+C:\Users\40740\Desktop\PSSC-2020-master\GheorghitaAdrian\ProiectV1\implementare workflow pentru postare întrebare nouă\Primitives\Access.Primitives.IO\bin\Debug\netstandard2.0\Access.Primitives.IO.deps.json
+C:\Users\40740\Desktop\PSSC-2020-master\GheorghitaAdrian\ProiectV1\implementare workflow pentru postare întrebare nouă\Primitives\Access.Primitives.IO\bin\Debug\netstandard2.0\Access.Primitives.IO.dll
+C:\Users\40740\Desktop\PSSC-2020-master\GheorghitaAdrian\ProiectV1\implementare workflow pentru postare întrebare nouă\Primitives\Access.Primitives.IO\bin\Debug\netstandard2.0\Access.Primitives.IO.pdb
+C:\Users\40740\Desktop\PSSC-2020-master\GheorghitaAdrian\ProiectV1\implementare workflow pentru postare întrebare nouă\Primitives\Access.Primitives.IO\obj\Debug\netstandard2.0\Access.Primitives.IO.csprojAssemblyReference.cache
+C:\Users\40740\Desktop\PSSC-2020-master\GheorghitaAdrian\ProiectV1\implementare workflow pentru postare întrebare nouă\Primitives\Access.Primitives.IO\obj\Debug\netstandard2.0\Access.Primitives.IO.AssemblyInfoInputs.cache
+C:\Users\40740\Desktop\PSSC-2020-master\GheorghitaAdrian\ProiectV1\implementare workflow pentru postare întrebare nouă\Primitives\Access.Primitives.IO\obj\Debug\netstandard2.0\Access.Primitives.IO.AssemblyInfo.cs
+C:\Users\40740\Desktop\PSSC-2020-master\GheorghitaAdrian\ProiectV1\implementare workflow pentru postare întrebare nouă\Primitives\Access.Primitives.IO\obj\Debug\netstandard2.0\Access.Primitives.IO.csproj.CoreCompileInputs.cache
+C:\Users\40740\Desktop\PSSC-2020-master\GheorghitaAdrian\ProiectV1\implementare workflow pentru postare întrebare nouă\Primitives\Access.Primitives.IO\obj\Debug\netstandard2.0\Access.Primitives.IO.dll
+C:\Users\40740\Desktop\PSSC-2020-master\GheorghitaAdrian\ProiectV1\implementare workflow pentru postare întrebare nouă\Primitives\Access.Primitives.IO\obj\Debug\netstandard2.0\Access.Primitives.IO.pdb
